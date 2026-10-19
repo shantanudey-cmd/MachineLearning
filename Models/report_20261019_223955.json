@@ -1,0 +1,14 @@
+{
+  "best_model": "logistic_regression",
+  "dataset": "churn.csv",
+  "target": "Churn",
+  "cv_f1": {
+    "logistic_regression": 0.5951732208515423,
+    "random_forest": 0.546249628214432,
+    "gradient_boosting": 0.5760644699245658
+  },
+  "test_accuracy": 0.8034066713981547,
+  "test_f1": 0.6002886002886003,
+  "rows": 7043,
+  "created": "20261019_223955"
+}
